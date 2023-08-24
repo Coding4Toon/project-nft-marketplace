@@ -1,0 +1,29 @@
+{
+  "name": "nftmarketplace",
+  "version": "1.0.0",
+  "description": "NFT Marketplace from A to Z",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding4Toon/project-nft-marketplace.git"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "toon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coding4Toon/project-nft-marketplace/issues"
+  },
+  "homepage": "https://github.com/Coding4Toon/project-nft-marketplace#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
